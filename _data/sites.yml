@@ -1,3 +1,8 @@
+- domain: old.net.eu.org
+  url: http://old.net.eu.org/
+  size: 1922
+  last_checked: 20241-05-24
+
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
